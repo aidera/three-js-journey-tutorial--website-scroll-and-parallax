@@ -1,0 +1,21 @@
+{
+  "name": "Three.js initial simple project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lil-gui": "^0.19.2",
+    "vite": "^5.2.6"
+  },
+  "dependencies": {
+    "gsap": "^3.12.5",
+    "three": "^0.162.0"
+  }
+}
